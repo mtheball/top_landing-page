@@ -41,6 +41,18 @@ body {
   color: #1f2937; 
 }
 
+.quote-text {
+  font-size: 36px;
+  font-weight: light;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote-source {
+  font-weight: bold;
+}
+
+/* image properties */
 .main-text-image {
   max-width: 300px;
   height: auto;
