@@ -9,6 +9,10 @@ body {
   background-color: #1f2937;
 }
 
+.main-info button, .cta-box {
+   background-color: #3882f6;
+}
+
 .quote-container {
   background-color: #e5e7eb;
 }
