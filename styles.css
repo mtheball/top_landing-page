@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,300&display=swap');
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -34,7 +34,7 @@ body {
 .random-info h2 {
   font-size: 36px;
   font-weight: bolder;
-  color: #1f2937;
+  color: #1f2937; 
 }
 
 .main-text-image {
