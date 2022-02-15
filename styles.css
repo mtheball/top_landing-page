@@ -4,6 +4,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.header, .main-info, .footer {
+  background-color: #1f2937;
+}
+
+.quote-container {
+  background-color: #e5e7eb;
+}
+
 .main-text-image {
   max-width: 300px;
   height: auto;
