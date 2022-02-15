@@ -57,3 +57,12 @@ body {
   max-width: 300px;
   height: auto;
 }
+
+/* main sign-up button */
+.main-info button {
+  color: #f9faf8;
+  padding: 4px 12px;
+
+  border-radius: 6px;
+  border-style: none;
+}
