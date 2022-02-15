@@ -3,3 +3,8 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+.main-text-image {
+  max-width: 300px;
+  height: auto;
+}
