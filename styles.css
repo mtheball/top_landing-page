@@ -107,3 +107,11 @@ body {
 a {
   text-decoration: none;
 }
+
+.header-links {
+  list-style-type: none;
+  
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
