@@ -145,8 +145,11 @@ a {
 }
 
 .card img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 145px;
+  max-height: 145px;
+
+  border: solid #3882f6 5px;
+  border-radius: 5px;
 }
 
 .cards {
