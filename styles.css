@@ -86,7 +86,7 @@ body {
 /* modifying the header */
 
 .header, .content > * {
-  padding: 0 200px;
+  padding: 0 371px;
 }
 .header {
   display: flex;
