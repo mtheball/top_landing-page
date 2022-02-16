@@ -82,3 +82,10 @@ body {
 .content {
   flex: 1;
 }
+
+/* modifying the header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
