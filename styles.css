@@ -200,3 +200,12 @@ a {
 .cta-description {
   font-size: 16px;
 }
+
+.cta-box button {
+  background-color: #3882f6;
+  color:#e5e7eb;
+  border: solid #f9faf8 2px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 4px 24px;
+}
