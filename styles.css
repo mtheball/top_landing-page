@@ -200,6 +200,9 @@ a {
 }
 
 .cta-text {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
   color: #e5e7eb;
 }
 
