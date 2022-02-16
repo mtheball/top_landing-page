@@ -187,3 +187,16 @@ a {
   padding: 10vh 20vw;
   justify-content: center;
 }
+
+.cta-text {
+  color: #e5e7eb;
+}
+
+.cta-call {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.cta-description {
+  font-size: 16px;
+}
