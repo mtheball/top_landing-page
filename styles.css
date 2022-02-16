@@ -128,7 +128,7 @@ a {
 }
 
 .main-text-description {
-  margin: 14px 0;
+  flex: 1;
 }
 
 .main-left {
