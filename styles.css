@@ -188,6 +188,17 @@ a {
   justify-content: center;
 }
 
+.cta-box {
+  display: flex;
+  justify-content: space-between;
+  padding: 48px 96px;
+  
+  border-radius: 10px;
+
+  flex: 1;
+  
+}
+
 .cta-text {
   color: #e5e7eb;
 }
