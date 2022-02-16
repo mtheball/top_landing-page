@@ -70,3 +70,15 @@ body {
   border-radius: 6px;
   border-style: none;
 }
+
+/* putting header, content,and footer in flexbox */
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+
+.content {
+  flex: 1;
+}
