@@ -126,3 +126,7 @@ a {
 .main-info h1 {
   margin: 0;
 }
+
+.main-text-description {
+  margin: 14px 0;
+}
