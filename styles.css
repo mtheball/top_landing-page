@@ -163,6 +163,7 @@ a {
   flex-flow: column wrap;
   max-width: 180px;
   align-items: center;
+  gap: 16px;
 }
 
 .card-text {
