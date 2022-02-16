@@ -58,7 +58,7 @@ body {
 
 /* image properties */
 .main-text-image {
-  max-width: 413px;
+  max-width: 418px;
   height: auto;
 }
 
@@ -129,4 +129,12 @@ a {
 
 .main-text-description {
   margin: 14px 0;
+}
+
+.main-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  margin-right: 278px;
 }
