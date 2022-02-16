@@ -115,3 +115,9 @@ a {
   justify-content: center;
   gap: 16px;
 }
+
+.main-info {
+  display: flex;
+  justify-content: center;
+  padding: 68px 371px;
+}
