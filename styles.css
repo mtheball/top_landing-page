@@ -87,7 +87,7 @@ body {
 /* modifying the header */
 
 .header, .content > * {
-  padding: 0 371px;
+  padding: 0 20vw;
 }
 .header {
   display: flex;
@@ -120,7 +120,9 @@ a {
 .main-info {
   display: flex;
   justify-content: center;
-  padding: 68px 371px;
+  padding-top: 68px;
+  padding-bottom: 68px;
+
 }
 
 .main-info h1 {
