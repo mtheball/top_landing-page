@@ -158,7 +158,7 @@ a {
 .card {
   display: flex;
   flex-flow: column wrap;
-  width: 180px;
+  max-width: 180px;
   align-items: center;
 }
 
