@@ -130,12 +130,8 @@ a {
   margin: 0;
 }
 
-.main-text-description {
-  flex: 1;
-}
-
 .main-left {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  gap: 18px;
 }
