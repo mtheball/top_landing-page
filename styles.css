@@ -148,3 +148,20 @@ a {
   max-width: 150px;
   max-height: 150px;
 }
+
+.cards {
+  display: flex;
+  gap: 60px;
+  padding-bottom: 10vh;
+}
+
+.card {
+  display: flex;
+  flex-flow: column wrap;
+  width: 180px;
+  align-items: center;
+}
+
+.card-text {
+  text-align: center;
+}
