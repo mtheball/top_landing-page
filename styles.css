@@ -66,10 +66,12 @@ body {
 .main-info button {
   color: #f9faf8;
   font-weight: 900;
-  padding: 8px 26px;
+  padding: 12px 26px;
 
   border-radius: 6px;
   border-style: none;
+
+  align-self: flex-start;
 }
 
 /* putting header, content,and footer in flexbox */
