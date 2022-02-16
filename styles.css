@@ -170,3 +170,14 @@ a {
 .card-text {
   text-align: center;
 }
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  padding: 15vh 20vw;
+  gap: 12px;
+}
+
+.quote-source {
+  align-self: flex-end;
+}
